@@ -64,7 +64,7 @@ I'm an software developer building my version of the digital world one step at a
 
 ### 📊 Stats
 
-![Schadrack10 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadrack10&show_icons=true&theme=gruvbox)
+![Schadrack10 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadrack10&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
