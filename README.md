@@ -54,6 +54,10 @@ I'm an software developer building my version of the digital world one step at a
  <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />       
 </a>
 
+<a>
+<img  align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />       
+</a>
+
 <br/>
 <br/>
 
