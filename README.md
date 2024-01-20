@@ -54,6 +54,9 @@ I'm an software developer building my version of the digital world one step at a
 </svg>
 </a>
 
+<br/>
+
+
 ### 📊 Stats
 
 ![Schadrack10 's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schadrack10&show_icons=true&theme=gruvbox)
