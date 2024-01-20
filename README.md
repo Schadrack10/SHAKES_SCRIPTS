@@ -38,6 +38,7 @@ I'm an software developer building my version of the digital world one step at a
 ### 📺 Connect with me
 
 <br/>
+<br/>
 
 <a href="">
 <img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />          
